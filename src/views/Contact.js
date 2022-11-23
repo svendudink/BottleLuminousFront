@@ -20,7 +20,7 @@ const About = () => {
       Email: Sven@dudink.net
       <br />
       Backend github: https://github.com/svendudink/Bottleluminousback <br />{" "}
-      Frontend Github:
+      Frontend Github: https://github.com/svendudink/BottleluminousFront
     </div>
   );
 };
